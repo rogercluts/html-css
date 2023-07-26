@@ -3,4 +3,4 @@
 
  estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://rogercluts.github.io/html-css/desafios/android/android.html">Acessar o site para saber a origem do mascote do Android
+<a href="https://rogercluts.github.io/html-css/desafios/android/android.html">Acessar o site para saber a origem do mascote do Android</a>
